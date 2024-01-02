@@ -1,0 +1,93 @@
+body{
+    padding: 5% 15%;
+    
+}
+.parent{
+    background-color: hsl(30, 38%, 92%);
+    padding: 7% 20%;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px;
+}
+.container{
+    display: flex;
+    border: 2px solid rgba(0, 0, 0, 0.0);
+    border-radius: 6px;
+    height: 420px;
+}
+.section1{
+    width: 50%;
+    border-top-left-radius: 20px;
+}
+.section2{
+    width: 50%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-top: 20px;
+    background-color: #ffff;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.h1{
+   font-size: 12PX;
+color: hsl(229, 9%, 54%);
+margin-left: 30px;
+}
+.h2{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-left: 30px;
+}
+.h3{
+font-weight: 600;
+color: hsl(228, 12%, 48%);
+margin-left: 30px;
+
+}
+.h4{
+    font-size: 40px;
+    font-weight: 1000;
+    color: hsl(158, 36%, 37%);
+    padding-top: 20px;
+    margin-left: 30px;
+}
+#h5{
+    font-size: 13px;
+    color: hsl(228, 12%, 48%);
+    padding-top: 0px;
+    padding-bottom: 50px;
+    text-decoration: line-through;
+    text-align: center;
+}
+.eppi{
+    margin-top: 15px;
+}
+.cul{
+    width: 15px;
+    margin-right: 13px;
+    height: 12px;
+}
+.add{
+    border: 0px;
+    border-radius: 5px;
+    background-color: hsl(158, 34%, 38%);
+    width: 80%;
+    height: 40px;
+    color: #ffff;
+    font-size: 13px;
+    font-weight: 600;
+}
+.add:hover{
+    background: hsl(158, 53%, 14%);
+    cursor: pointer;
+}
+.add1{
+    padding-top: 20px;
+    margin-left: 30px;
+}
+.perfume{
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
