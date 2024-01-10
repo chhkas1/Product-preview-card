@@ -35,9 +35,9 @@ color: hsl(229, 9%, 54%);
 margin-left: 30px;
 }
 .h2{
-    font-size: 30px;
-    font-weight: 600;
-    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Fraunces', serif;
     margin-left: 30px;
 }
 .h3{
@@ -47,11 +47,12 @@ margin-left: 30px;
 
 }
 .h4{
-    font-size: 40px;
-    font-weight: 1000;
+    font-size: 30px;
+    /* font-weight: 1000; */
     color: hsl(158, 36%, 37%);
     padding-top: 20px;
     margin-left: 30px;
+    font-family: 'Fraunces', serif;
 }
 #h5{
     font-size: 13px;
